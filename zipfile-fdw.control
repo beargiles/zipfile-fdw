@@ -1,0 +1,5 @@
+# zipfile-fdw extension
+comment = 'A short description'
+default_version = '0.0.1'
+module_pathname = '$libdir/zipfile-fdw'
+relocatable = true

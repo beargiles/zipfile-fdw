@@ -1,0 +1,9 @@
+\set ECHO 0
+-- You should write your tests
+SELECT zipfile-fdw('test');
+ zipfile-fdw 
+-------------
+ 
+(1 row)
+
+ROLLBACK;
